@@ -1,2 +1,4 @@
 
-console.log('你好，世界');
+setInterval(() => {
+  console.log(1234);
+}, 1000);
